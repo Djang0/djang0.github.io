@@ -1,0 +1,23 @@
+{
+  "name": "larochailes",
+  "version": "1.0.0",
+  "description": "Larochailes website",
+  "main": "index.html",
+  "dependencies": {
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Djang0/djang0.github.io.git"
+  },
+  "author": "Ludovic Reenaers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Djang0/djang0.github.io/issues"
+  },
+  "homepage": "https://github.com/Djang0/djang0.github.io#readme"
+}

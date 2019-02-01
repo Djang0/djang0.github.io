@@ -22,7 +22,9 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
     <!-- Custom styles for this template -->
     <link href="css/grayscale.css" rel="stylesheet">
-    <link href="css/jquery.gcal_flow.css" rel="stylesheet" type="text/css">
+
+    <script src="vendor/moment/moment.js"></script>
+    <script src="vendor/moment/locale/fr.js" charset="UTF-8"></script>
 
   </head>
 
@@ -158,11 +160,14 @@
             <div class="featured-text-right text-center text-lg-right">
               <h4>Agenda</h4>
               <p class="text-black-50 mb-0">Restez informé au sujet details événements auxquels participent le club</p>
+
+              <button type="button" class="btn btn-primary" id="add-to-cal">reg</button>
+
             </div>
           </div>
           <div class="col-xl-8 col-lg-7">
             <!--  <img class="img-fluid mb-3 mb-lg-0" src="img/takeoff.jpg" alt="">-->
-            <div id="gcf-simple"></div>
+            <div id="gcf-simple" class="card"></div>
 
           </div>
 
@@ -254,14 +259,107 @@
 
     <!-- Plugin JavaScript -->
     <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
-
+    <script src="https://apis.google.com/js/api.js"></script>
     <!-- Custom scripts for this template -->
     <script src="js/grayscale.min.js"></script>
-    <script type="text/javascript" src="js/jquery.gcal_flow.js"></script>
+    <script src="js/util.js"></script>
     <script type="text/javascript">
-      $('#gcf-simple').gCalFlow({
-        calid: 'larochailes%40gmail.com',
-        apikey: 'AIzaSyCYkDnVmc-PZbRYJQIViskIQFIF83M5aAM'
+      // Google api console clientID and apiKey
+
+      var clientId = '882505830520-5hrpn4v90rollmpmj027flm01kb5vlqf.apps.googleusercontent.com';
+      var apiKey = 'AIzaSyCYkDnVmc-PZbRYJQIViskIQFIF83M5aAM';
+
+      // enter the scope of current project (this API must be turned on in the Google console)
+      var scopes = 'https://www.googleapis.com/auth/calendar';
+
+
+      // OAuth2 functions
+      function handleClientLoad() {
+        gapi.client.setApiKey(apiKey);
+        window.setTimeout(checkAuth, 1);
+      }
+
+      //To authenticate
+      function checkAuth() {
+        gapi.auth.authorize({
+          client_id: clientId,
+          scope: scopes,
+          immediate: true
+        }, handleAuthResult);
+      }
+
+      // This is the resource we will pass while calling api function
+      var resource = {
+        "id": "larochailes@gmail.com"
+      };
+
+      function makeApiCall() {
+        gapi.client.load('calendar', 'v3', function() { // load the calendar api (version 3)
+          var request = gapi.client.calendar.calendarList.insert({
+            'calendarId': '24tn4fht2tr6m86efdiqqlsedk@group.calendar.google.com',
+            // calendar ID which id of Google Calendar where you are creating events. this can be copied from your Google Calendar user view.
+
+            "resource": resource // above resource will be passed here
+          });
+        });
+      }
+
+    </script>
+
+    <script type="text/javascript">
+      var mykey = 'AIzaSyCYkDnVmc-PZbRYJQIViskIQFIF83M5aAM'; // typically like Gtg-rtZdsreUr_fLfhgPfgff
+      var calendarid = 'larochailes@gmail.com'; // will look somewhat like 3ruy234vodf6hf4sdf5sd84f@group.calendar.google.com
+      var today = new Date();
+      var max_date = new Date();
+      max_date.setFullYear(max_date.getFullYear() + 1);
+      moment.locale('fr');
+      var url_query = 'https://www.googleapis.com/calendar/v3/calendars/' + calendarid + '/events?key=' + mykey + '&timeMin=' + ISODateString(today) + '&timeMax=' + ISODateString(max_date) + '&orderBy=startTime&singleEvents=true'
+      $.ajax({
+        type: 'GET',
+        url: encodeURI(url_query),
+        dataType: 'json',
+        success: function(response) {
+          //do whatever you want with each
+          //data = JSON.stringify(response);
+
+          $("#gcf-simple").html('<ul id="calendar_lst" class="scroll-list list-group "></ul>');
+
+          for (var item in response["items"]) {
+            //if (response.hasOwnProperty(property)) {
+            // do stuff
+            if (response["items"][item]["start"].hasOwnProperty('dateTime')) {
+              start_date = moment(parseGoogleDate(response["items"][item]["start"]["dateTime"]))
+            } else {
+              start_date = moment(parseGoogleDate(response["items"][item]["start"]["date"]))
+            }
+            if (response["items"][item]["end"].hasOwnProperty('dateTime')) {
+              end_date = moment(parseGoogleDate(response["items"][item]["end"]["dateTime"]))
+            } else {
+              end_date = moment(parseGoogleDate(response["items"][item]["end"]["date"]))
+            }
+
+            this_date = start_date;
+            while (this_date.isBefore(end_date, 'day') || this_date.isSame(end_date, 'day')) {
+              dsp_date = moment(this_date).format("dddd D MMM YYYY");
+              $('#calendar_lst').append('<li class="list-group-item list-group-item-action" ><small><u>' + dsp_date + '</u> :</small>&nbsp;' + response["items"][item]["summary"] + '</li>')
+              this_date.add(1, 'd');
+
+            }
+
+
+            //}
+          }
+
+        },
+        error: function(response) {
+          console.log(JSON.stringify(response));
+          //tell that an error has occurred
+        }
+      });
+      $(document).ready(function() {
+        $('#add-to-cal').on("click", function() {
+          makeApiCall();
+        });
       });
 
     </script>

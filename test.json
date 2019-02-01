@@ -1,0 +1,1385 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p338ff4ujtmbu00g\"",
+ "summary": "La Roch'ailes",
+ "description": "Agenda du club de parapente ",
+ "updated": "2019-01-31T10:54:39.746Z",
+ "timeZone": "Europe/Brussels",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3097546376624000\"",
+   "id": "061g67kfu14fjp73tgs7828uuc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MDYxZzY3a2Z1MTRmanA3M3Rnczc4Mjh1dWMgbGFyb2NoYWlsZXNAbQ",
+   "created": "2019-01-29T14:46:28.000Z",
+   "updated": "2019-01-29T14:46:28.312Z",
+   "summary": "Présentation Bruce Goldsmith",
+   "description": "Programme des activités de la journée\n\nDe 14h à 16h : examens théoriques (attention : heures modifiées !).\n\nA partir de 16h, ouverture des portes pour la présentation de BRUCE GOLDSMITH qui débutera à 16h15 pour se terminer vers 18h15.\n\nA partir de 18h30, ouverture des portes pour l'assemblée générale et des stands des écoles et clubs. Boissons et sandwiches seront également disponibles au bar.\n\nA 19h30 : Début de l'assemblée générale.\n\nLors de la remise de ses bulletins de vote, chaque membre se verra offrir 2 tickets pour le bar qui restera ouvert après l'assemblée générale pour permettre à ceux qui le souhaitent de passer encore un moment convivial ensemble.\n\n\n\nA vous voir nombreux le 2,\n\nle conseil.",
+   "creator": {
+    "email": "pascal.lhoas@gmail.com",
+    "displayName": "Pascal Lhoas"
+   },
+   "organizer": {
+    "email": "larochailes@gmail.com",
+    "displayName": "La Rochailes Club de parapente",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-02-02T16:00:00+01:00"
+   },
+   "end": {
+    "dateTime": "2019-02-02T18:00:00+01:00"
+   },
+   "iCalUID": "061g67kfu14fjp73tgs7828uuc@google.com",
+   "sequence": 0,
+   "extendedProperties": {
+    "private": {
+     "everyoneDeclinedDismissed": "-1"
+    }
+   },
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3097545953790000\"",
+   "id": "7q4cuhcfomc6t6ot509ghj4rvk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=N3E0Y3VoY2ZvbWM2dDZvdDUwOWdoajRydmsgbGFyb2NoYWlsZXNAbQ",
+   "created": "2019-01-29T14:42:56.000Z",
+   "updated": "2019-01-29T14:42:56.895Z",
+   "summary": "AG FBVL",
+   "description": "Le conseil d'administration de la FBVL vous invite cordialement à\n\nL'ASSEMBLEE GENERALE ANNUELLE de la FBVL\n\nprécédée d'une présentation de BRUCE GOLDSMITH (PAF de 5 €):\n\n« 50 manières de mieux voler »\n\nle SAMEDI 02 FEVRIER 2019 à 19h30\n\ndans la grande salle du \"CENTRUM SINT-MAARTEN\", VELDEKE 1 à ZAVENTEM\n\n\n\nAgenda de l'assemblée générale\n\nRapport annuel du conseil d'administration.\nPrésentation et approbation de comptes annuels de 2018 et du budget 2019 (1)(4).\nRéponse aux questions écrites des membres (2).\nDécharge des administrateurs (4).\nVote cotisations (4).\nAssurances.\nElection de membres du conseil d'administration (3)(4).",
+   "creator": {
+    "email": "pascal.lhoas@gmail.com",
+    "displayName": "Pascal Lhoas"
+   },
+   "organizer": {
+    "email": "larochailes@gmail.com",
+    "displayName": "La Rochailes Club de parapente",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-02-02T19:30:00+01:00"
+   },
+   "end": {
+    "dateTime": "2019-02-02T21:30:00+01:00"
+   },
+   "iCalUID": "7q4cuhcfomc6t6ot509ghj4rvk@google.com",
+   "sequence": 0,
+   "extendedProperties": {
+    "private": {
+     "everyoneDeclinedDismissed": "-1"
+    }
+   },
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3080561055632000\"",
+   "id": "5vt2u2ljbm1jg23o21socp8h4a",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NXZ0MnUybGpibTFqZzIzbzIxc29jcDhoNGEgbGFyb2NoYWlsZXNAbQ",
+   "created": "2018-10-23T07:42:07.000Z",
+   "updated": "2018-10-23T07:42:07.816Z",
+   "summary": "Approtissage : Préparer son cross",
+   "description": "\u003cul\u003e\u003cli\u003eConsultation sur Facebook de Notam\u003c/li\u003e\u003cli\u003eConsultation sur la ligue de planeurs\u003c/li\u003e\u003cli\u003eVérifier son vol via Mids\u003c/li\u003e\u003cli\u003eXC track / XC Soar \u003c/li\u003e\u003cli\u003eUtiliser un fichier open air sur vario ou smartphone\u003c/li\u003e\u003cli\u003e…\u003c/li\u003e\u003c/ul\u003e",
+   "creator": {
+    "email": "pascal.lhoas@gmail.com",
+    "displayName": "Pascal Lhoas"
+   },
+   "organizer": {
+    "email": "larochailes@gmail.com",
+    "displayName": "La Rochailes Club de parapente",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-02-10T09:30:00+01:00"
+   },
+   "end": {
+    "dateTime": "2019-02-10T12:00:00+01:00"
+   },
+   "iCalUID": "5vt2u2ljbm1jg23o21socp8h4a@google.com",
+   "sequence": 0,
+   "extendedProperties": {
+    "private": {
+     "everyoneDeclinedDismissed": "-1"
+    }
+   },
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3085843551786000\"",
+   "id": "64nkqblrdepjr3reu9fjc3lpla",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjRua3FibHJkZXBqcjNyZXU5ZmpjM2xwbGEgbGFyb2NoYWlsZXNAbQ",
+   "created": "2018-11-22T21:22:55.000Z",
+   "updated": "2018-11-22T21:22:55.893Z",
+   "summary": "Pliage secours",
+   "creator": {
+    "email": "pascal.lhoas@gmail.com",
+    "displayName": "Pascal Lhoas"
+   },
+   "organizer": {
+    "email": "larochailes@gmail.com",
+    "displayName": "La Rochailes Club de parapente",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-02-24T09:30:00+01:00"
+   },
+   "end": {
+    "dateTime": "2019-02-24T13:00:00+01:00"
+   },
+   "iCalUID": "64nkqblrdepjr3reu9fjc3lpla@google.com",
+   "sequence": 0,
+   "extendedProperties": {
+    "private": {
+     "everyoneDeclinedDismissed": "-1"
+    }
+   },
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3085843291034000\"",
+   "id": "0jm7mibujvoud85mnetdsf111o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MGptN21pYnVqdm91ZDg1bW5ldGRzZjExMW8gbGFyb2NoYWlsZXNAbQ",
+   "created": "2018-11-22T21:20:01.000Z",
+   "updated": "2018-11-22T21:20:45.517Z",
+   "summary": "Souper Laroch'Ailes",
+   "creator": {
+    "email": "pascal.lhoas@gmail.com",
+    "displayName": "Pascal Lhoas"
+   },
+   "organizer": {
+    "email": "larochailes@gmail.com",
+    "displayName": "La Rochailes Club de parapente",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-03-23T19:00:00+01:00"
+   },
+   "end": {
+    "dateTime": "2019-03-23T22:00:00+01:00"
+   },
+   "transparency": "transparent",
+   "iCalUID": "0jm7mibujvoud85mnetdsf111o@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3074009094566000\"",
+   "id": "5g5biaaoil57in0gjmfl562m3u",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NWc1YmlhYW9pbDU3aW4wZ2ptZmw1NjJtM3UgbGFyb2NoYWlsZXNAbQ",
+   "created": "2018-09-15T09:42:27.000Z",
+   "updated": "2018-09-15T09:42:27.283Z",
+   "summary": "SIV K2",
+   "creator": {
+    "email": "pascal.lhoas@gmail.com",
+    "displayName": "Pascal Lhoas"
+   },
+   "organizer": {
+    "email": "larochailes@gmail.com",
+    "displayName": "La Rochailes Club de parapente",
+    "self": true
+   },
+   "start": {
+    "date": "2019-05-17"
+   },
+   "end": {
+    "date": "2019-05-20"
+   },
+   "transparency": "transparent",
+   "iCalUID": "5g5biaaoil57in0gjmfl562m3u@google.com",
+   "sequence": 0,
+   "extendedProperties": {
+    "private": {
+     "everyoneDeclinedDismissed": "-1"
+    }
+   },
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3054876423236000\"",
+   "id": "70q3adr2cgomab9k6gp64b9kcksmabb26hij0b9i6lhjcd9pcoq32cj66o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NzBxM2FkcjJjZ29tYWI5azZncDY0YjlrY2tzbWFiYjI2aGlqMGI5aTZsaGpjZDlwY29xMzJjajY2byBsYXJvY2hhaWxlc0Bt",
+   "created": "2018-05-27T16:23:31.000Z",
+   "updated": "2018-05-27T16:23:31.618Z",
+   "summary": "Sortie club",
+   "creator": {
+    "email": "pascal.lhoas@gmail.com",
+    "displayName": "Pascal Lhoas"
+   },
+   "organizer": {
+    "email": "larochailes@gmail.com",
+    "displayName": "La Rochailes Club de parapente",
+    "self": true
+   },
+   "start": {
+    "date": "2019-05-30"
+   },
+   "end": {
+    "date": "2019-06-03"
+   },
+   "iCalUID": "70q3adr2cgomab9k6gp64b9kcksmabb26hij0b9i6lhjcd9pcoq32cj66o@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3054876555176000\"",
+   "id": "6gpm6d9pcksmcb9k65j6ab9k6orj0b9occo36b9n6oq3gp1k70rm6d9lcg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NmdwbTZkOXBja3NtY2I5azY1ajZhYjlrNm9yajBiOW9jY28zNmI5bjZvcTNncDFrNzBybTZkOWxjZyBsYXJvY2hhaWxlc0Bt",
+   "created": "2018-05-27T16:24:37.000Z",
+   "updated": "2018-05-27T16:24:37.588Z",
+   "summary": "Sortie club (date de repli)",
+   "creator": {
+    "email": "pascal.lhoas@gmail.com",
+    "displayName": "Pascal Lhoas"
+   },
+   "organizer": {
+    "email": "larochailes@gmail.com",
+    "displayName": "La Rochailes Club de parapente",
+    "self": true
+   },
+   "start": {
+    "date": "2019-06-08"
+   },
+   "end": {
+    "date": "2019-06-11"
+   },
+   "iCalUID": "6gpm6d9pcksmcb9k65j6ab9k6orj0b9occo36b9n6oq3gp1k70rm6d9lcg@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3090286673632000\"",
+   "id": "68o32opj6dh3cb9l6orj2b9kc5i3cb9p6go68b9m6pgm2cb560p68chgck",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjhvMzJvcGo2ZGgzY2I5bDZvcmoyYjlrYzVpM2NiOXA2Z282OGI5bTZwZ20yY2I1NjBwNjhjaGdjayBsYXJvY2hhaWxlc0Bt",
+   "created": "2018-12-15T12:02:17.000Z",
+   "updated": "2018-12-18T14:28:56.816Z",
+   "summary": "Maroc",
+   "creator": {
+    "email": "pascal.lhoas@gmail.com",
+    "displayName": "Pascal Lhoas"
+   },
+   "organizer": {
+    "email": "larochailes@gmail.com",
+    "displayName": "La Rochailes Club de parapente",
+    "self": true
+   },
+   "start": {
+    "date": "2019-10-26"
+   },
+   "end": {
+    "date": "2019-11-03"
+   },
+   "iCalUID": "68o32opj6dh3cb9l6orj2b9kc5i3cb9p6go68b9m6pgm2cb560p68chgck@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3017914028026000\"",
+   "id": "t0f8ldkt5tqkrq9mu7oacmald8_20200125T170000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dDBmOGxka3Q1dHFrcnE5bXU3b2FjbWFsZDhfMjAyMDAxMjVUMTcwMDAwWiBsYXJvY2hhaWxlc0Bt",
+   "created": "2015-12-18T09:54:34.000Z",
+   "updated": "2017-10-25T18:43:34.013Z",
+   "summary": "AG Larochailes",
+   "creator": {
+    "email": "pascal.lhoas@gmail.com",
+    "displayName": "Pascal Lhoas"
+   },
+   "organizer": {
+    "email": "larochailes@gmail.com",
+    "displayName": "La Rochailes Club de parapente",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2020-01-25T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "end": {
+    "dateTime": "2020-01-25T22:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "recurringEventId": "t0f8ldkt5tqkrq9mu7oacmald8",
+   "originalStartTime": {
+    "dateTime": "2020-01-25T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "iCalUID": "t0f8ldkt5tqkrq9mu7oacmald8@google.com",
+   "sequence": 2,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3017914028026000\"",
+   "id": "t0f8ldkt5tqkrq9mu7oacmald8_20210123T170000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dDBmOGxka3Q1dHFrcnE5bXU3b2FjbWFsZDhfMjAyMTAxMjNUMTcwMDAwWiBsYXJvY2hhaWxlc0Bt",
+   "created": "2015-12-18T09:54:34.000Z",
+   "updated": "2017-10-25T18:43:34.013Z",
+   "summary": "AG Larochailes",
+   "creator": {
+    "email": "pascal.lhoas@gmail.com",
+    "displayName": "Pascal Lhoas"
+   },
+   "organizer": {
+    "email": "larochailes@gmail.com",
+    "displayName": "La Rochailes Club de parapente",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2021-01-23T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "end": {
+    "dateTime": "2021-01-23T22:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "recurringEventId": "t0f8ldkt5tqkrq9mu7oacmald8",
+   "originalStartTime": {
+    "dateTime": "2021-01-23T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "iCalUID": "t0f8ldkt5tqkrq9mu7oacmald8@google.com",
+   "sequence": 2,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3017914028026000\"",
+   "id": "t0f8ldkt5tqkrq9mu7oacmald8_20220122T170000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dDBmOGxka3Q1dHFrcnE5bXU3b2FjbWFsZDhfMjAyMjAxMjJUMTcwMDAwWiBsYXJvY2hhaWxlc0Bt",
+   "created": "2015-12-18T09:54:34.000Z",
+   "updated": "2017-10-25T18:43:34.013Z",
+   "summary": "AG Larochailes",
+   "creator": {
+    "email": "pascal.lhoas@gmail.com",
+    "displayName": "Pascal Lhoas"
+   },
+   "organizer": {
+    "email": "larochailes@gmail.com",
+    "displayName": "La Rochailes Club de parapente",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2022-01-22T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "end": {
+    "dateTime": "2022-01-22T22:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "recurringEventId": "t0f8ldkt5tqkrq9mu7oacmald8",
+   "originalStartTime": {
+    "dateTime": "2022-01-22T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "iCalUID": "t0f8ldkt5tqkrq9mu7oacmald8@google.com",
+   "sequence": 2,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3017914028026000\"",
+   "id": "t0f8ldkt5tqkrq9mu7oacmald8_20230128T170000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dDBmOGxka3Q1dHFrcnE5bXU3b2FjbWFsZDhfMjAyMzAxMjhUMTcwMDAwWiBsYXJvY2hhaWxlc0Bt",
+   "created": "2015-12-18T09:54:34.000Z",
+   "updated": "2017-10-25T18:43:34.013Z",
+   "summary": "AG Larochailes",
+   "creator": {
+    "email": "pascal.lhoas@gmail.com",
+    "displayName": "Pascal Lhoas"
+   },
+   "organizer": {
+    "email": "larochailes@gmail.com",
+    "displayName": "La Rochailes Club de parapente",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2023-01-28T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "end": {
+    "dateTime": "2023-01-28T22:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "recurringEventId": "t0f8ldkt5tqkrq9mu7oacmald8",
+   "originalStartTime": {
+    "dateTime": "2023-01-28T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "iCalUID": "t0f8ldkt5tqkrq9mu7oacmald8@google.com",
+   "sequence": 2,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3017914028026000\"",
+   "id": "t0f8ldkt5tqkrq9mu7oacmald8_20240127T170000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dDBmOGxka3Q1dHFrcnE5bXU3b2FjbWFsZDhfMjAyNDAxMjdUMTcwMDAwWiBsYXJvY2hhaWxlc0Bt",
+   "created": "2015-12-18T09:54:34.000Z",
+   "updated": "2017-10-25T18:43:34.013Z",
+   "summary": "AG Larochailes",
+   "creator": {
+    "email": "pascal.lhoas@gmail.com",
+    "displayName": "Pascal Lhoas"
+   },
+   "organizer": {
+    "email": "larochailes@gmail.com",
+    "displayName": "La Rochailes Club de parapente",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2024-01-27T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "end": {
+    "dateTime": "2024-01-27T22:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "recurringEventId": "t0f8ldkt5tqkrq9mu7oacmald8",
+   "originalStartTime": {
+    "dateTime": "2024-01-27T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "iCalUID": "t0f8ldkt5tqkrq9mu7oacmald8@google.com",
+   "sequence": 2,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3017914028026000\"",
+   "id": "t0f8ldkt5tqkrq9mu7oacmald8_20250125T170000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dDBmOGxka3Q1dHFrcnE5bXU3b2FjbWFsZDhfMjAyNTAxMjVUMTcwMDAwWiBsYXJvY2hhaWxlc0Bt",
+   "created": "2015-12-18T09:54:34.000Z",
+   "updated": "2017-10-25T18:43:34.013Z",
+   "summary": "AG Larochailes",
+   "creator": {
+    "email": "pascal.lhoas@gmail.com",
+    "displayName": "Pascal Lhoas"
+   },
+   "organizer": {
+    "email": "larochailes@gmail.com",
+    "displayName": "La Rochailes Club de parapente",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2025-01-25T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "end": {
+    "dateTime": "2025-01-25T22:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "recurringEventId": "t0f8ldkt5tqkrq9mu7oacmald8",
+   "originalStartTime": {
+    "dateTime": "2025-01-25T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "iCalUID": "t0f8ldkt5tqkrq9mu7oacmald8@google.com",
+   "sequence": 2,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3017914028026000\"",
+   "id": "t0f8ldkt5tqkrq9mu7oacmald8_20260124T170000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dDBmOGxka3Q1dHFrcnE5bXU3b2FjbWFsZDhfMjAyNjAxMjRUMTcwMDAwWiBsYXJvY2hhaWxlc0Bt",
+   "created": "2015-12-18T09:54:34.000Z",
+   "updated": "2017-10-25T18:43:34.013Z",
+   "summary": "AG Larochailes",
+   "creator": {
+    "email": "pascal.lhoas@gmail.com",
+    "displayName": "Pascal Lhoas"
+   },
+   "organizer": {
+    "email": "larochailes@gmail.com",
+    "displayName": "La Rochailes Club de parapente",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-01-24T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "end": {
+    "dateTime": "2026-01-24T22:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "recurringEventId": "t0f8ldkt5tqkrq9mu7oacmald8",
+   "originalStartTime": {
+    "dateTime": "2026-01-24T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "iCalUID": "t0f8ldkt5tqkrq9mu7oacmald8@google.com",
+   "sequence": 2,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3017914028026000\"",
+   "id": "t0f8ldkt5tqkrq9mu7oacmald8_20270123T170000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dDBmOGxka3Q1dHFrcnE5bXU3b2FjbWFsZDhfMjAyNzAxMjNUMTcwMDAwWiBsYXJvY2hhaWxlc0Bt",
+   "created": "2015-12-18T09:54:34.000Z",
+   "updated": "2017-10-25T18:43:34.013Z",
+   "summary": "AG Larochailes",
+   "creator": {
+    "email": "pascal.lhoas@gmail.com",
+    "displayName": "Pascal Lhoas"
+   },
+   "organizer": {
+    "email": "larochailes@gmail.com",
+    "displayName": "La Rochailes Club de parapente",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2027-01-23T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "end": {
+    "dateTime": "2027-01-23T22:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "recurringEventId": "t0f8ldkt5tqkrq9mu7oacmald8",
+   "originalStartTime": {
+    "dateTime": "2027-01-23T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "iCalUID": "t0f8ldkt5tqkrq9mu7oacmald8@google.com",
+   "sequence": 2,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3017914028026000\"",
+   "id": "t0f8ldkt5tqkrq9mu7oacmald8_20280122T170000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dDBmOGxka3Q1dHFrcnE5bXU3b2FjbWFsZDhfMjAyODAxMjJUMTcwMDAwWiBsYXJvY2hhaWxlc0Bt",
+   "created": "2015-12-18T09:54:34.000Z",
+   "updated": "2017-10-25T18:43:34.013Z",
+   "summary": "AG Larochailes",
+   "creator": {
+    "email": "pascal.lhoas@gmail.com",
+    "displayName": "Pascal Lhoas"
+   },
+   "organizer": {
+    "email": "larochailes@gmail.com",
+    "displayName": "La Rochailes Club de parapente",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2028-01-22T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "end": {
+    "dateTime": "2028-01-22T22:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "recurringEventId": "t0f8ldkt5tqkrq9mu7oacmald8",
+   "originalStartTime": {
+    "dateTime": "2028-01-22T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "iCalUID": "t0f8ldkt5tqkrq9mu7oacmald8@google.com",
+   "sequence": 2,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3017914028026000\"",
+   "id": "t0f8ldkt5tqkrq9mu7oacmald8_20290127T170000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dDBmOGxka3Q1dHFrcnE5bXU3b2FjbWFsZDhfMjAyOTAxMjdUMTcwMDAwWiBsYXJvY2hhaWxlc0Bt",
+   "created": "2015-12-18T09:54:34.000Z",
+   "updated": "2017-10-25T18:43:34.013Z",
+   "summary": "AG Larochailes",
+   "creator": {
+    "email": "pascal.lhoas@gmail.com",
+    "displayName": "Pascal Lhoas"
+   },
+   "organizer": {
+    "email": "larochailes@gmail.com",
+    "displayName": "La Rochailes Club de parapente",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2029-01-27T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "end": {
+    "dateTime": "2029-01-27T22:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "recurringEventId": "t0f8ldkt5tqkrq9mu7oacmald8",
+   "originalStartTime": {
+    "dateTime": "2029-01-27T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "iCalUID": "t0f8ldkt5tqkrq9mu7oacmald8@google.com",
+   "sequence": 2,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3017914028026000\"",
+   "id": "t0f8ldkt5tqkrq9mu7oacmald8_20300126T170000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dDBmOGxka3Q1dHFrcnE5bXU3b2FjbWFsZDhfMjAzMDAxMjZUMTcwMDAwWiBsYXJvY2hhaWxlc0Bt",
+   "created": "2015-12-18T09:54:34.000Z",
+   "updated": "2017-10-25T18:43:34.013Z",
+   "summary": "AG Larochailes",
+   "creator": {
+    "email": "pascal.lhoas@gmail.com",
+    "displayName": "Pascal Lhoas"
+   },
+   "organizer": {
+    "email": "larochailes@gmail.com",
+    "displayName": "La Rochailes Club de parapente",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2030-01-26T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "end": {
+    "dateTime": "2030-01-26T22:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "recurringEventId": "t0f8ldkt5tqkrq9mu7oacmald8",
+   "originalStartTime": {
+    "dateTime": "2030-01-26T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "iCalUID": "t0f8ldkt5tqkrq9mu7oacmald8@google.com",
+   "sequence": 2,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3017914028026000\"",
+   "id": "t0f8ldkt5tqkrq9mu7oacmald8_20310125T170000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dDBmOGxka3Q1dHFrcnE5bXU3b2FjbWFsZDhfMjAzMTAxMjVUMTcwMDAwWiBsYXJvY2hhaWxlc0Bt",
+   "created": "2015-12-18T09:54:34.000Z",
+   "updated": "2017-10-25T18:43:34.013Z",
+   "summary": "AG Larochailes",
+   "creator": {
+    "email": "pascal.lhoas@gmail.com",
+    "displayName": "Pascal Lhoas"
+   },
+   "organizer": {
+    "email": "larochailes@gmail.com",
+    "displayName": "La Rochailes Club de parapente",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2031-01-25T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "end": {
+    "dateTime": "2031-01-25T22:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "recurringEventId": "t0f8ldkt5tqkrq9mu7oacmald8",
+   "originalStartTime": {
+    "dateTime": "2031-01-25T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "iCalUID": "t0f8ldkt5tqkrq9mu7oacmald8@google.com",
+   "sequence": 2,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3017914028026000\"",
+   "id": "t0f8ldkt5tqkrq9mu7oacmald8_20320124T170000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dDBmOGxka3Q1dHFrcnE5bXU3b2FjbWFsZDhfMjAzMjAxMjRUMTcwMDAwWiBsYXJvY2hhaWxlc0Bt",
+   "created": "2015-12-18T09:54:34.000Z",
+   "updated": "2017-10-25T18:43:34.013Z",
+   "summary": "AG Larochailes",
+   "creator": {
+    "email": "pascal.lhoas@gmail.com",
+    "displayName": "Pascal Lhoas"
+   },
+   "organizer": {
+    "email": "larochailes@gmail.com",
+    "displayName": "La Rochailes Club de parapente",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2032-01-24T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "end": {
+    "dateTime": "2032-01-24T22:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "recurringEventId": "t0f8ldkt5tqkrq9mu7oacmald8",
+   "originalStartTime": {
+    "dateTime": "2032-01-24T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "iCalUID": "t0f8ldkt5tqkrq9mu7oacmald8@google.com",
+   "sequence": 2,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3017914028026000\"",
+   "id": "t0f8ldkt5tqkrq9mu7oacmald8_20330122T170000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dDBmOGxka3Q1dHFrcnE5bXU3b2FjbWFsZDhfMjAzMzAxMjJUMTcwMDAwWiBsYXJvY2hhaWxlc0Bt",
+   "created": "2015-12-18T09:54:34.000Z",
+   "updated": "2017-10-25T18:43:34.013Z",
+   "summary": "AG Larochailes",
+   "creator": {
+    "email": "pascal.lhoas@gmail.com",
+    "displayName": "Pascal Lhoas"
+   },
+   "organizer": {
+    "email": "larochailes@gmail.com",
+    "displayName": "La Rochailes Club de parapente",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2033-01-22T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "end": {
+    "dateTime": "2033-01-22T22:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "recurringEventId": "t0f8ldkt5tqkrq9mu7oacmald8",
+   "originalStartTime": {
+    "dateTime": "2033-01-22T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "iCalUID": "t0f8ldkt5tqkrq9mu7oacmald8@google.com",
+   "sequence": 2,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3017914028026000\"",
+   "id": "t0f8ldkt5tqkrq9mu7oacmald8_20340128T170000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dDBmOGxka3Q1dHFrcnE5bXU3b2FjbWFsZDhfMjAzNDAxMjhUMTcwMDAwWiBsYXJvY2hhaWxlc0Bt",
+   "created": "2015-12-18T09:54:34.000Z",
+   "updated": "2017-10-25T18:43:34.013Z",
+   "summary": "AG Larochailes",
+   "creator": {
+    "email": "pascal.lhoas@gmail.com",
+    "displayName": "Pascal Lhoas"
+   },
+   "organizer": {
+    "email": "larochailes@gmail.com",
+    "displayName": "La Rochailes Club de parapente",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2034-01-28T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "end": {
+    "dateTime": "2034-01-28T22:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "recurringEventId": "t0f8ldkt5tqkrq9mu7oacmald8",
+   "originalStartTime": {
+    "dateTime": "2034-01-28T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "iCalUID": "t0f8ldkt5tqkrq9mu7oacmald8@google.com",
+   "sequence": 2,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3017914028026000\"",
+   "id": "t0f8ldkt5tqkrq9mu7oacmald8_20350127T170000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dDBmOGxka3Q1dHFrcnE5bXU3b2FjbWFsZDhfMjAzNTAxMjdUMTcwMDAwWiBsYXJvY2hhaWxlc0Bt",
+   "created": "2015-12-18T09:54:34.000Z",
+   "updated": "2017-10-25T18:43:34.013Z",
+   "summary": "AG Larochailes",
+   "creator": {
+    "email": "pascal.lhoas@gmail.com",
+    "displayName": "Pascal Lhoas"
+   },
+   "organizer": {
+    "email": "larochailes@gmail.com",
+    "displayName": "La Rochailes Club de parapente",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2035-01-27T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "end": {
+    "dateTime": "2035-01-27T22:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "recurringEventId": "t0f8ldkt5tqkrq9mu7oacmald8",
+   "originalStartTime": {
+    "dateTime": "2035-01-27T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "iCalUID": "t0f8ldkt5tqkrq9mu7oacmald8@google.com",
+   "sequence": 2,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3017914028026000\"",
+   "id": "t0f8ldkt5tqkrq9mu7oacmald8_20360126T170000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dDBmOGxka3Q1dHFrcnE5bXU3b2FjbWFsZDhfMjAzNjAxMjZUMTcwMDAwWiBsYXJvY2hhaWxlc0Bt",
+   "created": "2015-12-18T09:54:34.000Z",
+   "updated": "2017-10-25T18:43:34.013Z",
+   "summary": "AG Larochailes",
+   "creator": {
+    "email": "pascal.lhoas@gmail.com",
+    "displayName": "Pascal Lhoas"
+   },
+   "organizer": {
+    "email": "larochailes@gmail.com",
+    "displayName": "La Rochailes Club de parapente",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2036-01-26T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "end": {
+    "dateTime": "2036-01-26T22:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "recurringEventId": "t0f8ldkt5tqkrq9mu7oacmald8",
+   "originalStartTime": {
+    "dateTime": "2036-01-26T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "iCalUID": "t0f8ldkt5tqkrq9mu7oacmald8@google.com",
+   "sequence": 2,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3017914028026000\"",
+   "id": "t0f8ldkt5tqkrq9mu7oacmald8_20370124T170000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dDBmOGxka3Q1dHFrcnE5bXU3b2FjbWFsZDhfMjAzNzAxMjRUMTcwMDAwWiBsYXJvY2hhaWxlc0Bt",
+   "created": "2015-12-18T09:54:34.000Z",
+   "updated": "2017-10-25T18:43:34.013Z",
+   "summary": "AG Larochailes",
+   "creator": {
+    "email": "pascal.lhoas@gmail.com",
+    "displayName": "Pascal Lhoas"
+   },
+   "organizer": {
+    "email": "larochailes@gmail.com",
+    "displayName": "La Rochailes Club de parapente",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2037-01-24T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "end": {
+    "dateTime": "2037-01-24T22:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "recurringEventId": "t0f8ldkt5tqkrq9mu7oacmald8",
+   "originalStartTime": {
+    "dateTime": "2037-01-24T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "iCalUID": "t0f8ldkt5tqkrq9mu7oacmald8@google.com",
+   "sequence": 2,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3017914028026000\"",
+   "id": "t0f8ldkt5tqkrq9mu7oacmald8_20380123T170000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dDBmOGxka3Q1dHFrcnE5bXU3b2FjbWFsZDhfMjAzODAxMjNUMTcwMDAwWiBsYXJvY2hhaWxlc0Bt",
+   "created": "2015-12-18T09:54:34.000Z",
+   "updated": "2017-10-25T18:43:34.013Z",
+   "summary": "AG Larochailes",
+   "creator": {
+    "email": "pascal.lhoas@gmail.com",
+    "displayName": "Pascal Lhoas"
+   },
+   "organizer": {
+    "email": "larochailes@gmail.com",
+    "displayName": "La Rochailes Club de parapente",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2038-01-23T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "end": {
+    "dateTime": "2038-01-23T22:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "recurringEventId": "t0f8ldkt5tqkrq9mu7oacmald8",
+   "originalStartTime": {
+    "dateTime": "2038-01-23T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "iCalUID": "t0f8ldkt5tqkrq9mu7oacmald8@google.com",
+   "sequence": 2,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3017914028026000\"",
+   "id": "t0f8ldkt5tqkrq9mu7oacmald8_20390122T170000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dDBmOGxka3Q1dHFrcnE5bXU3b2FjbWFsZDhfMjAzOTAxMjJUMTcwMDAwWiBsYXJvY2hhaWxlc0Bt",
+   "created": "2015-12-18T09:54:34.000Z",
+   "updated": "2017-10-25T18:43:34.013Z",
+   "summary": "AG Larochailes",
+   "creator": {
+    "email": "pascal.lhoas@gmail.com",
+    "displayName": "Pascal Lhoas"
+   },
+   "organizer": {
+    "email": "larochailes@gmail.com",
+    "displayName": "La Rochailes Club de parapente",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2039-01-22T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "end": {
+    "dateTime": "2039-01-22T22:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "recurringEventId": "t0f8ldkt5tqkrq9mu7oacmald8",
+   "originalStartTime": {
+    "dateTime": "2039-01-22T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "iCalUID": "t0f8ldkt5tqkrq9mu7oacmald8@google.com",
+   "sequence": 2,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3017914028026000\"",
+   "id": "t0f8ldkt5tqkrq9mu7oacmald8_20400128T170000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dDBmOGxka3Q1dHFrcnE5bXU3b2FjbWFsZDhfMjA0MDAxMjhUMTcwMDAwWiBsYXJvY2hhaWxlc0Bt",
+   "created": "2015-12-18T09:54:34.000Z",
+   "updated": "2017-10-25T18:43:34.013Z",
+   "summary": "AG Larochailes",
+   "creator": {
+    "email": "pascal.lhoas@gmail.com",
+    "displayName": "Pascal Lhoas"
+   },
+   "organizer": {
+    "email": "larochailes@gmail.com",
+    "displayName": "La Rochailes Club de parapente",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2040-01-28T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "end": {
+    "dateTime": "2040-01-28T22:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "recurringEventId": "t0f8ldkt5tqkrq9mu7oacmald8",
+   "originalStartTime": {
+    "dateTime": "2040-01-28T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "iCalUID": "t0f8ldkt5tqkrq9mu7oacmald8@google.com",
+   "sequence": 2,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3017914028026000\"",
+   "id": "t0f8ldkt5tqkrq9mu7oacmald8_20410126T170000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dDBmOGxka3Q1dHFrcnE5bXU3b2FjbWFsZDhfMjA0MTAxMjZUMTcwMDAwWiBsYXJvY2hhaWxlc0Bt",
+   "created": "2015-12-18T09:54:34.000Z",
+   "updated": "2017-10-25T18:43:34.013Z",
+   "summary": "AG Larochailes",
+   "creator": {
+    "email": "pascal.lhoas@gmail.com",
+    "displayName": "Pascal Lhoas"
+   },
+   "organizer": {
+    "email": "larochailes@gmail.com",
+    "displayName": "La Rochailes Club de parapente",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2041-01-26T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "end": {
+    "dateTime": "2041-01-26T22:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "recurringEventId": "t0f8ldkt5tqkrq9mu7oacmald8",
+   "originalStartTime": {
+    "dateTime": "2041-01-26T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "iCalUID": "t0f8ldkt5tqkrq9mu7oacmald8@google.com",
+   "sequence": 2,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3017914028026000\"",
+   "id": "t0f8ldkt5tqkrq9mu7oacmald8_20420125T170000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dDBmOGxka3Q1dHFrcnE5bXU3b2FjbWFsZDhfMjA0MjAxMjVUMTcwMDAwWiBsYXJvY2hhaWxlc0Bt",
+   "created": "2015-12-18T09:54:34.000Z",
+   "updated": "2017-10-25T18:43:34.013Z",
+   "summary": "AG Larochailes",
+   "creator": {
+    "email": "pascal.lhoas@gmail.com",
+    "displayName": "Pascal Lhoas"
+   },
+   "organizer": {
+    "email": "larochailes@gmail.com",
+    "displayName": "La Rochailes Club de parapente",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2042-01-25T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "end": {
+    "dateTime": "2042-01-25T22:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "recurringEventId": "t0f8ldkt5tqkrq9mu7oacmald8",
+   "originalStartTime": {
+    "dateTime": "2042-01-25T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "iCalUID": "t0f8ldkt5tqkrq9mu7oacmald8@google.com",
+   "sequence": 2,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3017914028026000\"",
+   "id": "t0f8ldkt5tqkrq9mu7oacmald8_20430124T170000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dDBmOGxka3Q1dHFrcnE5bXU3b2FjbWFsZDhfMjA0MzAxMjRUMTcwMDAwWiBsYXJvY2hhaWxlc0Bt",
+   "created": "2015-12-18T09:54:34.000Z",
+   "updated": "2017-10-25T18:43:34.013Z",
+   "summary": "AG Larochailes",
+   "creator": {
+    "email": "pascal.lhoas@gmail.com",
+    "displayName": "Pascal Lhoas"
+   },
+   "organizer": {
+    "email": "larochailes@gmail.com",
+    "displayName": "La Rochailes Club de parapente",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2043-01-24T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "end": {
+    "dateTime": "2043-01-24T22:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "recurringEventId": "t0f8ldkt5tqkrq9mu7oacmald8",
+   "originalStartTime": {
+    "dateTime": "2043-01-24T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "iCalUID": "t0f8ldkt5tqkrq9mu7oacmald8@google.com",
+   "sequence": 2,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3017914028026000\"",
+   "id": "t0f8ldkt5tqkrq9mu7oacmald8_20440123T170000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dDBmOGxka3Q1dHFrcnE5bXU3b2FjbWFsZDhfMjA0NDAxMjNUMTcwMDAwWiBsYXJvY2hhaWxlc0Bt",
+   "created": "2015-12-18T09:54:34.000Z",
+   "updated": "2017-10-25T18:43:34.013Z",
+   "summary": "AG Larochailes",
+   "creator": {
+    "email": "pascal.lhoas@gmail.com",
+    "displayName": "Pascal Lhoas"
+   },
+   "organizer": {
+    "email": "larochailes@gmail.com",
+    "displayName": "La Rochailes Club de parapente",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2044-01-23T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "end": {
+    "dateTime": "2044-01-23T22:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "recurringEventId": "t0f8ldkt5tqkrq9mu7oacmald8",
+   "originalStartTime": {
+    "dateTime": "2044-01-23T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "iCalUID": "t0f8ldkt5tqkrq9mu7oacmald8@google.com",
+   "sequence": 2,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3017914028026000\"",
+   "id": "t0f8ldkt5tqkrq9mu7oacmald8_20450128T170000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dDBmOGxka3Q1dHFrcnE5bXU3b2FjbWFsZDhfMjA0NTAxMjhUMTcwMDAwWiBsYXJvY2hhaWxlc0Bt",
+   "created": "2015-12-18T09:54:34.000Z",
+   "updated": "2017-10-25T18:43:34.013Z",
+   "summary": "AG Larochailes",
+   "creator": {
+    "email": "pascal.lhoas@gmail.com",
+    "displayName": "Pascal Lhoas"
+   },
+   "organizer": {
+    "email": "larochailes@gmail.com",
+    "displayName": "La Rochailes Club de parapente",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2045-01-28T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "end": {
+    "dateTime": "2045-01-28T22:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "recurringEventId": "t0f8ldkt5tqkrq9mu7oacmald8",
+   "originalStartTime": {
+    "dateTime": "2045-01-28T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "iCalUID": "t0f8ldkt5tqkrq9mu7oacmald8@google.com",
+   "sequence": 2,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3017914028026000\"",
+   "id": "t0f8ldkt5tqkrq9mu7oacmald8_20460127T170000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dDBmOGxka3Q1dHFrcnE5bXU3b2FjbWFsZDhfMjA0NjAxMjdUMTcwMDAwWiBsYXJvY2hhaWxlc0Bt",
+   "created": "2015-12-18T09:54:34.000Z",
+   "updated": "2017-10-25T18:43:34.013Z",
+   "summary": "AG Larochailes",
+   "creator": {
+    "email": "pascal.lhoas@gmail.com",
+    "displayName": "Pascal Lhoas"
+   },
+   "organizer": {
+    "email": "larochailes@gmail.com",
+    "displayName": "La Rochailes Club de parapente",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2046-01-27T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "end": {
+    "dateTime": "2046-01-27T22:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "recurringEventId": "t0f8ldkt5tqkrq9mu7oacmald8",
+   "originalStartTime": {
+    "dateTime": "2046-01-27T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "iCalUID": "t0f8ldkt5tqkrq9mu7oacmald8@google.com",
+   "sequence": 2,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3017914028026000\"",
+   "id": "t0f8ldkt5tqkrq9mu7oacmald8_20470126T170000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dDBmOGxka3Q1dHFrcnE5bXU3b2FjbWFsZDhfMjA0NzAxMjZUMTcwMDAwWiBsYXJvY2hhaWxlc0Bt",
+   "created": "2015-12-18T09:54:34.000Z",
+   "updated": "2017-10-25T18:43:34.013Z",
+   "summary": "AG Larochailes",
+   "creator": {
+    "email": "pascal.lhoas@gmail.com",
+    "displayName": "Pascal Lhoas"
+   },
+   "organizer": {
+    "email": "larochailes@gmail.com",
+    "displayName": "La Rochailes Club de parapente",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2047-01-26T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "end": {
+    "dateTime": "2047-01-26T22:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "recurringEventId": "t0f8ldkt5tqkrq9mu7oacmald8",
+   "originalStartTime": {
+    "dateTime": "2047-01-26T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "iCalUID": "t0f8ldkt5tqkrq9mu7oacmald8@google.com",
+   "sequence": 2,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3017914028026000\"",
+   "id": "t0f8ldkt5tqkrq9mu7oacmald8_20480125T170000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dDBmOGxka3Q1dHFrcnE5bXU3b2FjbWFsZDhfMjA0ODAxMjVUMTcwMDAwWiBsYXJvY2hhaWxlc0Bt",
+   "created": "2015-12-18T09:54:34.000Z",
+   "updated": "2017-10-25T18:43:34.013Z",
+   "summary": "AG Larochailes",
+   "creator": {
+    "email": "pascal.lhoas@gmail.com",
+    "displayName": "Pascal Lhoas"
+   },
+   "organizer": {
+    "email": "larochailes@gmail.com",
+    "displayName": "La Rochailes Club de parapente",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2048-01-25T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "end": {
+    "dateTime": "2048-01-25T22:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "recurringEventId": "t0f8ldkt5tqkrq9mu7oacmald8",
+   "originalStartTime": {
+    "dateTime": "2048-01-25T18:00:00+01:00",
+    "timeZone": "Europe/Brussels"
+   },
+   "iCalUID": "t0f8ldkt5tqkrq9mu7oacmald8@google.com",
+   "sequence": 2,
+   "reminders": {
+    "useDefault": true
+   }
+  }
+ ]
+}
