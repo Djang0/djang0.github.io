@@ -165,6 +165,9 @@
 .btn-primary:active {
   background-color: #467370 !important;
 }
+.btn-sm{
+  padding: 0.6rem 1rem;
+}
 
 .about-section {
   padding-top: 10rem;
