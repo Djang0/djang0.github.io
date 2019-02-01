@@ -266,8 +266,8 @@
     <script type="text/javascript">
       // Google api console clientID and apiKey
 
-      var clientId = '882505830520-5hrpn4v90rollmpmj027flm01kb5vlqf.apps.googleusercontent.com';
-      var apiKey = 'AIzaSyCYkDnVmc-PZbRYJQIViskIQFIF83M5aAM';
+      var clientId = '';
+      var apiKey = '';
 
       // enter the scope of current project (this API must be turned on in the Google console)
       var scopes = 'https://www.googleapis.com/auth/calendar';
@@ -288,6 +288,30 @@
         }, handleAuthResult);
       }
 
+      function start() {
+        // 2. Initialize the JavaScript client library.
+        gapi.client.init({
+          'apiKey': 'AIzaSyCYkDnVmc-PZbRYJQIViskIQFIF83M5aAM',
+          // Your API key will be automatically added to the Discovery Document URLs.
+          'discoveryDocs': ['https://people.googleapis.com/$discovery/rest'],
+          // clientId and scope are optional if auth is not required.
+          'clientId': '882505830520-5hrpn4v90rollmpmj027flm01kb5vlqf.apps.googleusercontent.com',
+          'scope': 'calendar',
+        }).then(function() {
+          // 3. Initialize and make the API request.
+          return gapi.client.people.people.get({
+            'resourceName': 'people/me',
+            'requestMask.includeField': 'person.names'
+          });
+        }).then(function(response) {
+          console.log(response.result);
+        }, function(reason) {
+          console.log('Error: ' + reason.result.error.message);
+        });
+      };
+      // 1. Load the JavaScript client library.
+      gapi.load('client', start);
+
       // This is the resource we will pass while calling api function
       var resource = {
         "id": "larochailes@gmail.com"
@@ -296,7 +320,6 @@
       function makeApiCall() {
         gapi.client.load('calendar', 'v3', function() { // load the calendar api (version 3)
           var request = gapi.client.calendar.calendarList.insert({
-            'calendarId': '24tn4fht2tr6m86efdiqqlsedk@group.calendar.google.com',
             // calendar ID which id of Google Calendar where you are creating events. this can be copied from your Google Calendar user view.
 
             "resource": resource // above resource will be passed here
