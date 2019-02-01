@@ -22,6 +22,7 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
     <!-- Custom styles for this template -->
     <link href="css/grayscale.css" rel="stylesheet">
+    <link href="css/jquery.gcal_flow.css" rel="stylesheet" type="text/css">
 
   </head>
 
@@ -41,7 +42,14 @@
               <a class="nav-link js-scroll-trigger" href="#about">A propos</a>
             </li>
             <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#sites">Les sites</a>
+            </li>
+            <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#projects">Activités</a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#agenda">Agenda</a>
             </li>
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#signup">Contact</a>
@@ -76,11 +84,11 @@
     </section>
 
     <!-- Projects Section -->
-    <section id="projects" class="projects-section bg-light">
+    <section class="projects-section bg-light">
       <div class="container">
 
         <!-- Featured Project Row -->
-        <div class="row align-items-center no-gutters mb-4 mb-lg-5">
+        <div class="row align-items-center no-gutters mb-4 mb-lg-5" id="sites">
           <div class="col-xl-8 col-lg-7">
             <img class="img-fluid mb-3 mb-lg-0" src="img/takeoff.jpg" alt="">
           </div>
@@ -93,7 +101,7 @@
         </div>
 
         <!-- Project One Row -->
-        <div class="row justify-content-center no-gutters mb-5 mb-lg-0">
+        <div class="row justify-content-center no-gutters mb-5 mb-lg-0" id="projects">
           <div class="col-lg-6">
             <img class="img-fluid" src="img/demo-image-01.jpg" alt="">
           </div>
@@ -144,9 +152,32 @@
             </div>
           </div>
         </div>
+        <br />
+        <div class="row align-items-center no-gutters mb-4 mb-lg-5" id="agenda">
+          <div class="col-xl-4 col-lg-5">
+            <div class="featured-text-right text-center text-lg-right">
+              <h4>Agenda</h4>
+              <p class="text-black-50 mb-0">Restez informé au sujet details événements auxquels participent le club</p>
+            </div>
+          </div>
+          <div class="col-xl-8 col-lg-7">
+            <!--  <img class="img-fluid mb-3 mb-lg-0" src="img/takeoff.jpg" alt="">-->
+            <div id="gcf-simple"></div>
+            <script type="text/javascript">
+              $(function() {
+                $('#gcf-simple').gCalFlow({
+                  calid: 'larochailes%40gmail.com',
+                  apikey: 'AIzaSyCYkDnVmc-PZbRYJQIViskIQFIF83M5aAM'
+                });
+              });
 
+            </script>
+          </div>
+
+        </div>
       </div>
     </section>
+
 
     <!-- Signup Section -->
     <section id="signup" class="signup-section">
@@ -234,6 +265,7 @@
 
     <!-- Custom scripts for this template -->
     <script src="js/grayscale.min.js"></script>
+    <script type="text/javascript" src="js/jquery.gcal_flow.js"></script>
 
   </body>
 

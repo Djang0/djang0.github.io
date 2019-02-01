@@ -183,11 +183,19 @@
 .projects-section .featured-text {
   padding: 2rem;
 }
-
+.projects-section .featured-text-right {
+  padding: 2rem;
+}
 @media (min-width: 992px) {
   .projects-section .featured-text {
     padding: 0 0 0 2rem;
     border-left: 0.5rem solid #64a19d;
+  }
+}
+@media (min-width: 992px) {
+  .projects-section .featured-text-right {
+    padding: 0 2rem 0 0;
+    border-right: 0.5rem solid #64a19d;
   }
 }
 
@@ -301,4 +309,21 @@ a:focus, a:hover {
 
 footer {
   padding: 5rem 0;
+}
+.responsive-iframe-container {
+position: relative;
+padding-bottom: 56.25%;
+padding-top: 30px;
+height: 0;
+overflow: hidden;
+}
+
+.responsive-iframe-container iframe,
+.vresponsive-iframe-container object,
+.vresponsive-iframe-container embed {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
 }
