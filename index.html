@@ -341,7 +341,7 @@
       }
 
       function makeApiCall() {
-        gapi.client.calendar.calendarList.insert(resource) then(function(response) {
+        gapi.client.calendar.calendarList.insert(resource).then(function(response) {
           console.log(JSON.stringify(response));
         });
       }
