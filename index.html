@@ -148,7 +148,8 @@
                 <div class="project-text w-100 my-auto text-center text-lg-left">
                   <h4 class="text-white">Challenge Roland Leclerc</h4>
                   <p class="mb-0 text-white-50">Chaque année, nous organisons une compétition de vol de distance en hommage à «monsieur Corumont». Le challenge, qui s'étend sur douze mois, s'appuie sur l'honneur et la convivialité des membres.</p>
-                  <p><a href="#" data-toggle="modal" data-target="#rules">Découvrir le réglement de la compétition</a></p>
+                  <br />
+                  <p><a href="#" role="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#rules">Réglement de la compétition</a></p>
                   <hr class="d-none d-lg-block mb-0 ml-0">
                 </div>
               </div>
@@ -263,77 +264,67 @@
             </button>
           </div>
           <div class="modal-body">
-            1. GÉNÉRALITÉS:
-            Pour participer à la coupe de distance, il faut être affilié au club « La Roch’Ailes ».
+            <h3>1. GÉNÉRALITÉS:</h3>
+            <p> Pour participer à la coupe de distance, il faut être affilié au club « La Roch’Ailes ».</p>
+            <p>Entrent en compte : les distances (sur axe, aller-retour, triangle FAI) réalisées au départ d'un des trois sites gérés par le club.</p>
+            <p>Les distances font l'objet d'une déclaration sur l'honneur, et sont rentrées sur le forum dans le poste prévu à cet effet sans tarder.</p>
+            <ul>
+              <li>Le pilote qui rentre une distance se voit automatiquement inscrit au challenge.</li>
+              <li>Les distances réalisées lors de compétitions ne seront pas prises en compte.</li>
+              <li>Le classement se fera sur l’addition des points cumulés par pilote.</li>
+              <li>On arrondira chaque distance à l’unité (km) la plus proche.</li>
+              <li>Toute réclamation et arbitrage sera de la compétence du comité La Roch’Ailes.</li>
+              <li>La coupe se déroule pendant l’année civile, du 1er janvier au 31 décembre.</li>
+            </ul>
+            <p>Cette compétition fera l’objet d’une remise de prix lors de l’AG de janvier.</p>
+            <p>Distances en parapente uniquement, sans utilisation d'aucune assistance motorisée.</p>
+            <p>Les vols réalisés dans le non-respect de la réglementation sont irrecevables et le brevet XC est obligatoire.</p>
 
-            Entrent en compte : les distances (sur axe, aller-retour, triangle FAI) réalisées au départ d'un des trois sites gérés par le club.
+            <h3>2. CALCUL DES DISTANCES:</h3>
+            <p>Pour que le vol puisse être comptabilisé, l’atterrissage doit se faire en dehors d’un cylindre de 2.5km à partir du décollage.</p>
+            <p>Les distances peuvent être calculées manuellement en prenant comme base Google Map ou automatiquement si la trace GPS a été téléchargée sur un serveur ‘Leonardo’[1] (distance XC).</p>
+            <p>Les triangles et aller-retours seront pris en compte suivant les règles FAI[2], c’est-à-dire :</p>
+            <ul>
+              <li>Distance libre ou avec un ou deux points de contournement : Coefficient = 1,0</li>
+              <li>Parcours en triangle plat ou aller-retour : Coefficient = 1,2</li>
+              <li>Parcours en Triangle FAI[3] : Coefficient = 1,4</li>
+            </ul>
 
-            Les distances font l'objet d'une déclaration sur l'honneur, et sont rentrées sur le forum dans le poste prévu à cet effet sans tarder.
+            <h3>3. COEFFICIENTS CORRECTEURS :</h3>
+            <p>Afin d’inciter les pilotes à varier les sites de vol et rééquilibrer le challenge, les coefficients multiplicateurs suivants seront appliqués à la distance :</p>
 
-            · Le pilote qui rentre une distance se voit automatiquement inscrit au challenge.
+            <h4>Sites</h4>
+            <p>1 pour le Corimont, 1.5 pour Marcourt et 2 pour Maboge</p>
 
-            · Les distances réalisées lors de compétitions ne seront pas prises en compte.
+            <h4>Voiles</h4>
+            <p>1.2 pour une A, 1 pour une B, 0.80 pour une C et 0.60 pour une D et plus.</p>
 
-            · Le classement se fera sur l’addition des points cumulés par pilote.
+            <h4>Pilotes</h4>
+            <p>0.6 pour le vainqueur de l’année précédente, 0,7 pour le deuxième et 0,8 pour le troisième, 1 pour tous les autres.</p>
 
-            · On arrondira chaque distance à l’unité (km) la plus proche.
+            <cite><b>Exemple :</b> Un cross de 20km au départ du site de Marcourt avec une voile C effectué par le pilote ayant gagné l’année précédente donnera 20 x 1.5 x 0.80 x 0.60 = 14.4 soit 14 points.</cite>
 
-            · Toute réclamation et arbitrage sera de la compétence du comité La Roch’Ailes.
+            <h3>4. POINTS BONUS POUR MABOGE ET MARCOURT:</h3>
+            <p>Chaque vol de plus d’une demi-heure volée sur ces sites donnera droit à 5 points. Ces points ne pourront pas être combinés avec des points cross pour un même vol.</p>
 
-            · La coupe se déroule pendant l’année civile, du 1er janvier au 31 décembre.
+            <h3>5. VOILES SPÉCIALES:</h3>
+            <p>Les points seront divisés par le nombre de couleurs qui la constituent.</p>
 
-            Cette compétition fera l’objet d’une remise de prix lors de l’AG de janvier.
+            <p>De plus, si la voile est constituée de plus de 70 caissons, les points seront divisés par deux.</p>
 
-            Distances en parapente uniquement, sans utilisation d'aucune assistance motorisée.
+            <em id="cit1"><small>[1] Exemple de serveur et de trace : <a href="http://www.paraglidingforum.com/leonardo/flight/1611113">www.paraglidingforum.com/leonardo/flight/1611113</small></a></em>
+            <br />
+            <em id="cit2"><small>[2] Règles FAI : <a href="http://parapente.ffvl.fr/sites/parapente.ffvl.fr/files/CD121215%20-%20reglement%20CFD%202015-2016.pdf">parapente.ffvl.fr/sites/parapente.ffvl.fr/files/CD121215-reglemen20CFD2015-2016.pdf</a></small></em>
+            <br />
+            <em id="cit3"><small>[3] La particularité de ce triangle est que la distance de son plus petit côté doit avoir une distance au moins égale à 28% du périmètre. Il est donc techniquement plus difficile à réaliser, d’où une valeur en points
+                supérieure
+                au kilomètre pour la CFD.</small></em>
+            <br />
+            <br />
+            <p>Vous devez signalez vos distances sur le forum dans la rubrique concernée, merci d'avance.</p>
 
-            Les vols réalisés dans le non-respect de la réglementation sont irrecevables et le brevet XC est obligatoire.
-
-            2. CALCUL DES DISTANCES:
-            Pour que le vol puisse être comptabilisé, l’atterrissage doit se faire en dehors d’un cylindre de 2.5km à partir du décollage.
-
-            Les distances peuvent être calculées manuellement en prenant comme base Google Map ou automatiquement si la trace GPS a été téléchargée sur un serveur ‘Leonardo’[1] (distance XC).
-
-            Les triangles et aller-retours seront pris en compte suivant les règles FAI[2], c’est-à-dire :
-
-            · Distance libre ou avec un ou deux points de contournement : Coefficient = 1,0
-
-            · Parcours en triangle plat ou aller-retour : Coefficient = 1,2
-
-            · Parcours en Triangle FAI[3] : Coefficient = 1,4
-
-            3. COEFFICIENTS CORRECTEURS :
-            Afin d’inciter les pilotes à varier les sites de vol et rééquilibrer le challenge, les coefficients multiplicateurs suivants seront appliqués à la distance :
-
-            · Sites
-            1 pour le Corimont, 1.5 pour Marcourt et 2 pour Maboge
-
-            · Voiles
-            1.2 pour une A, 1 pour une B, 0.80 pour une C et 0.60 pour une D et plus.
-
-            · Pilotes
-            0.6 pour le vainqueur de l’année précédente, 0,7 pour le deuxième et 0,8 pour le troisième, 1 pour tous les autres.
-
-            Exemple : Un cross de 20km au départ du site de Marcourt avec une voile C effectué par le pilote ayant gagné l’année précédente donnera 20 x 1.5 x 0.80 x 0.60 = 14.4 soit 14 points.
-
-            4. POINTS BONUS POUR MABOGE ET MARCOURT:
-            Chaque vol de plus d’une demi-heure volée sur ces sites donnera droit à 5 points. Ces points ne pourront pas être combinés avec des points cross pour un même vol.
-
-            5. VOILES SPÉCIALES:
-            Les points seront divisés par le nombre de couleurs qui la constituent.
-
-            De plus, si la voile est constituée de plus de 70 caissons, les points seront divisés par deux.
-
-            [1] Exemple de serveur et de trace : http://www.paraglidingforum.com/leonardo/flight/1611113
-
-            [2] Règles FAI : http://parapente.ffvl.fr/sites/parapente.ffvl.fr/files/CD121215%20-%20reglement%20CFD%202015-2016.pdf
-
-            [3] La particularité de ce triangle est que la distance de son plus petit côté doit avoir une distance au moins égale à 28% du périmètre. Il est donc techniquement plus difficile à réaliser, d’où une valeur en points supérieure au
-            kilomètre pour la CFD.
-
-            Vous devez signalez vos distances sur le forum dans la rubrique concernée, merci d'avance.
-
-            Bonne chance à tous et soyez prudents.
-            Le comité.
+            <p>Bonne chance à tous et soyez prudents.</p>
+            <p>Le comité.</p>
           </div>
           <div class="modal-footer">
             <button type="button" class="btn btn-primary btn-sm" data-dismiss="modal">Fermer</button>
